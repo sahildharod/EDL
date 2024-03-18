@@ -23,3 +23,8 @@
 - SD card:
     - Video tutorial for interfacing STM32 and SD card holder: https://www.youtube.com/watch?v=aqSNz26Cuio
 
+- Literature Review :
+    - https://www.researchgate.net/publication/267225017_Vibration_monitoring_of_bridges
+    - https://www.mdpi.com/1424-8220/24/3/740#B87-sensors-24-00740
+    - https://www.dataphysics.com/blog/modal-analysis/modal-testing-with-shaker-excitation
+- Dataset for Motor Vibration Data : https://github.com/Charlie5DH/PredictiveMaintenance-and-Vibration-Resources
