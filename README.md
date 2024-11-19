@@ -1,5 +1,5 @@
 # EDL
-This is the course project for EE344 : Electronic Design Lab. We worked in a team of 4 to build a mountable wireless vibration sensor for structural health monitorting from scratch. Additionally we incorporated real time data acquisition and also built a GUI which displays the data over a period of time along with its analysis. My contribution included writing Embedded C code that programs STM family of microcontrollers.  THe key functionality of the code was to collect data from the sensors periodically, locally store it in an SD Card and then transmit it wirelessly using WiFi.
+This is the course project for EE344 : Electronic Design Lab. We worked in a team of 4 to build a mountable wireless vibration sensor for structural health monitorting from scratch. Additionally we incorporated real time data acquisition and also built a GUI which displays the data over a period of time along with its analysis. My contribution included writing Embedded C code that programs STM family of microcontrollers and Python code to perform analysis of the vibration data obtained.  THe key functionality of the code was to collect data from the sensors periodically, locally store it in an SD Card and then transmit it wirelessly using WiFi.
 ## CAD Resources:
 
 - IIS3DWB: https://www.st.com/en/mems-and-sensors/iis3dwb.html#cad-resources
